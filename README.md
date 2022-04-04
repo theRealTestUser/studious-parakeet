@@ -1,4 +1,3 @@
 # studious-parakeet
 
-need docs
-kthx
+We need documentation. Ok, thank you.
